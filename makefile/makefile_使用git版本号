@@ -1,0 +1,2 @@
+# e.g v0.0.1-1-gf787ed9-dirty
+VER  ?= $(shell git describe --tags --always --dirty)
